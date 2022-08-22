@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kecapsedap12
+- 👋 Hi, I’m Ngatz
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python, SIEM, Log Management, Adversary Emulation, etc
 - 💞️ I’m looking to collaborate on SIEM installation (Like ELK), Python Scripting, Network Configuration, etc
