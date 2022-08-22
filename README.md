@@ -5,7 +5,7 @@
 - 📫 You can reach me by email truepunk879@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kecapsedap12)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngatz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
